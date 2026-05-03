@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Models and Data
+*.pt
+videos/*.mp4
+output/
+results/
+
+# IDE files
+.vscode/
+.idea/
